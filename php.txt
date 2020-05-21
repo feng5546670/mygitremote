@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello wrld 
 <? php
 echo:'a'
