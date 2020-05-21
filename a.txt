@@ -3,3 +3,4 @@ vim second a.text
 vim third a.text
 last text
 modifile a
+delete a
