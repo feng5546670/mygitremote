@@ -1,0 +1,2 @@
+vim a.text
+vim second a.text
