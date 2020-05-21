@@ -1,2 +1,4 @@
 vim a.text
 vim second a.text
+vim third a.text
+last text
